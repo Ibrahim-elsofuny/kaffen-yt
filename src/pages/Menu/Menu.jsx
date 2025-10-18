@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from '../../components/cards/Card';
-import ShoppSection from '../../components/ui/ShopSection/ShopSection';
+import ShopSection from '../../components/ui/shopSection/Shop';
 import AOS from "aos";
 import "aos/dist/aos.css";
 export default function Menu() {

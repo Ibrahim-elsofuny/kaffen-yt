@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Kfcet from "../../components/cards/kfCet";
+import Kfcet from "../../components/cards/kfcet";
 import Feedback from "../../components/Feedback/Feedback";
 import Card from "../../components/cards/Card";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaYoutube } from "react-icons/fa";
