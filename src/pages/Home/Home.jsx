@@ -1,6 +1,6 @@
 import React from 'react'
 import Banner from "../../components/BannerSwiper/Banner";
-import Kfcet from '../../components/cards/kfCet';
+import Kfcet from '../../components/cards/kfcet';
 import Services from '../../components/kf-services/kaffenServices';
 import Feedback from '../../components/Feedback/Feedback';
 import './Home.css';
